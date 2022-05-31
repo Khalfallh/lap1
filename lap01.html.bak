@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> welcome in my page </h1>
+<p><b> my name is khalaf allah khalaf alhassany  </b></p>
+<p> I study at UQU majoring in IS </p>
+<img src="image/test.jpg" />
+<table border="2">
+ <tr>
+ <td bgcolor="red">id</td>
+ <td colspan="2" bgcolor="green">439007749</td>
+ </tr>
+ <tr>
+ <td bgcolor="blue">level</td>
+ <td colspan="2" bgcolor="yellow">level 8</td>
+ </tr>
+</table>
+
+
+ <h2><span>My Site</span></h2>
+ <form>
+ username <input type="text" name="username" /> <br>
+ password <input type="password" name="password" /> <br>
+ <input type="radio" name="gender" value="male" /> Male <br>
+ <input type="radio" name="gender" value="female" /> Female <br>
+ </form>
+
+<h3><span>Contact Me</span></h3>
+<form>
+ <input name="name" type="text" /><br/>
+ <input name="email" type="email" /><br/>
+ <textarea name="message"></textarea>
+ <input type="submit" value="SEND" class="submit" />
+</form>
+
+
+
+</body>
+</html>
